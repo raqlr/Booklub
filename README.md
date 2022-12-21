@@ -1,2 +1,2 @@
-# TheBookApp
-InovaWeek 2023 project idea
+# Booklub
+InovaWeek 2023 project idea.
